@@ -10,6 +10,7 @@ class MinionsController < ApplicationController
   # GET /minions/1
   # GET /minions/1.json
   def show
+
   end
 
   # GET /minions/new
